@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1659689392 source:e:\cpp project\banking services\main.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<time.h>
+	"MMSystem.h"
+
+1658572787 source:e:\cpp project\banking services\resourse.rc
+
